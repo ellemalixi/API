@@ -1,6 +1,0 @@
-framework module Pods_MovieAPICall2 {
-  umbrella header "Pods-MovieAPICall2-umbrella.h"
-
-  export *
-  module * { export * }
-}
